@@ -9,3 +9,4 @@ vkMusicApp
 3. Шмаркуненко Алина
 
 # UML-diagram
+![uml](https://github.com/zbershadsky/oopproject/blob/master/oop.jpg)
